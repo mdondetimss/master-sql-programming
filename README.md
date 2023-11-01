@@ -1,6 +1,6 @@
 # master-sql-programming
 
-![]([https://github.com/mdondetimss/master-sql-programming/blob/main/sql-git.png))
+![]([https://github.com/mdondetimss/master-sql-programming/blob/main/sql-git.png)
 
 ## ALIAS------AS 
 
@@ -32,10 +32,10 @@ SELECT id AS empid, name AS empname FROM readme;
 #### Output:-
 empid |  empname
 ------------- | -------------
-1 | mani
-2 | krishna
-3 | pawan
-4 | raju
+1 | mahesh
+2 | naresh
+3 | nihith
+4 | roja
 
 ## Group By
 #### -->Group By Column
