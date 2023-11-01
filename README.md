@@ -1,6 +1,6 @@
-# mss-Sql-Programming
+# master-sql-programming
 
-![](https://github.com/manikrishna7265/mss-Sql-Programming/blob/main/sql-git.png)
+![](https://github.com/mdondetimss/master-sql-programming/blob/main/sql-git.png)
 
 ## ALIAS------AS 
 
