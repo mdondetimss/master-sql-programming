@@ -1,0 +1,2 @@
+select * from emp where hiredate in ('1981-05-01','1981-12-03','1981-12-17','1980-01-19') order by HIREDATE asc;
+-- List the emps who joined on 1-MAY-81,3-DEC-81,17-DEC-81,19-JAn-80 in asc order of seniority
